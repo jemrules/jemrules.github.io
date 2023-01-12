@@ -1,3 +1,35 @@
 body {
     font-family: 'Roboto', sans-serif;
+    background-image: url('backgroundimg.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: #63666A;
+}
+
+.titleimg {
+    display: block;
+    border-radius: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+button {
+    background-color: #555555;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-left: 60px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: white;
+    color: #555555;
 }
