@@ -3,6 +3,7 @@ body {
     background-image: url('backgroundimg.gif');
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #0f264b;
 
     color: #63666A;
 }
