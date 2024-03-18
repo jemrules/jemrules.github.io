@@ -2,7 +2,7 @@ body {
     font-family: 'Roboto', sans-serif;
     background-image: url('backgroundimg.gif');
     background-repeat: no-repeat;
-    background-size: fill;
+    background-size: cover;
     background-color: #0f264b;
 
     color: #63666A;
