@@ -5,6 +5,9 @@ const data = JSON.parse(`
   },
   "Python" : {
     "PyGame" : {"Source":"https://jemrules.github.io/Pong/Pong.py"}
+  },
+  "Ruby": {
+    "CmdLn" : {"Source":"https://jemrules.github.io/Pong/Ruby.rb"}
   }
 }`);
 document.body.onload = loadSources;
